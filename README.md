@@ -9,7 +9,7 @@
 <h2>Sobre</h2>
 Essa é a minha solução para um exercício do curso de HTML e CSS da B7Web, O desafio era clonar a página de resultados do Google.
  
-
+---
 
 <h2>Tecnologias utilizadas</h2>
 
