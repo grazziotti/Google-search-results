@@ -7,7 +7,7 @@
 </h1>
 
 <h2>Sobre</h2>
-<p>Essa é a minha solução para um exercício do curso de HTML e CSS da B7Web, O desafio era criar uma página de tributo.</p>
+Essa é a minha solução para um exercício do curso de HTML e CSS da B7Web, O desafio era clonar a página de resultados do Google.
  
 
 
@@ -18,7 +18,7 @@
     <li>CSS3</li>
 </ul>
 
-<h2></h2>
+---
 
 <h3 align="center">
     <a href="https://grazziotti.github.io/Google-search-results/">Acessar a página</a>
