@@ -331,7 +331,7 @@ footer a:hover {
 
 
 
-@media (max-width: 1024px) {
+@media (max-width: 769px) {
     .header-main {
         display: none;
     }
@@ -356,6 +356,8 @@ footer a:hover {
 
     section {
         padding: 8px;
+        display: flex;
+        justify-content: center;
     }
     .nav-area,
     section .container {
